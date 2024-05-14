@@ -41,7 +41,8 @@
                             <div class="form-text" id="password-info">
                                 Password must be atleast 8 characters long.
                                 The Password is required
-                                another changes                           </div>
+                                another changes                           
+                            </div>
                         </div>
 
                         <button type="submit" class="btn btn-success w-100">Register</button>
