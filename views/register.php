@@ -40,6 +40,7 @@
                             <input type="password" name="password" id="password" class="form-control fw-bold" minlength="8" aria-describeBy="password-info" required>
                             <div class="form-text" id="password-info">
                                 Password must be atleast 8 characters long.
+                                The Password is required
                             </div>
                         </div>
 
