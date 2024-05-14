@@ -1,6 +1,7 @@
 <?php
 
     $name="John";
-    echo "Hello,$name";
+    $last_name="smith"
+    echo "Hello,$name $last_name";
 
 ?>
